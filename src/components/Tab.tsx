@@ -1,7 +1,6 @@
 import "./Tabs.css";
-import { useState } from "react";
 
-interface TabProps {
+export interface TabProps {
   content: string;
 }
 
